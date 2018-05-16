@@ -5,7 +5,9 @@
   <img width="460" height="300" src="https://github.com/TechTouchABI/MAB-AI/blob/master/icon.png">
 </p>
 
- MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours :)
+MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours :)
+Check out the MAB.ai V2 performance on vimeo:https://vimeo.com/270219767
+ 
  
  We have also added an AR scene to enhance the experience
 
@@ -50,6 +52,7 @@ Computation of Nash equilibria
 7. Now that we have set up our environment lets open the ARscene and hit Play
 
 # Demo Application is also included in the zip file, if you don't have Unity3D installed on your machine. Just double click the MAB.ai.exe and your all set
+
 This project was inspired by Unity Technologies project: https://github.com/Unity-Technologies/BanditDungeon
 
 
