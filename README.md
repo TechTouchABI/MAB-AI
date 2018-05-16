@@ -5,6 +5,10 @@
   <img width="460" height="300" src="https://github.com/TechTouchABI/MAB-AI/blob/master/icon.png">
 </p>
 
+ MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours :)
+ 
+ We have also added an AR scene to enhance the experience
+
 Reinforcement learning is learning what to do - how to map situations to actions - so as to maximize a numerical reward signal.
 The learner is not told which actions to take, as in most forms of machine learning, but instead must discover which actions
 yield the most reward by trying them. In the most interesting and challenging cases, actions may affect not only
