@@ -14,7 +14,7 @@ The learner is not told which actions to take, as in most forms of machine learn
 yield the most reward by trying them. In the most interesting and challenging cases, actions may affect not only
 the immediate reward, but also the next situation and, through that, all subsequent rewards. 
 
-#The multi-armed bandit problem
+# The multi-armed bandit problem
 
 Maximize the reward obtained by successively playing gamble machines (the ‘arms’ of the bandits)
 Invented in early 1950s by Robbins to model decision making under uncertainty when the environment is unknown
@@ -49,7 +49,7 @@ Computation of Nash equilibria
 6. Enable XR and Vuforia in the player settings inspector
 7. Now that we have set up our environment lets open the ARscene and hit Play
 
-# Demo Application is also included in the zip file, if you don't have Unity3D installed on your machine
+# Demo Application is also included in the zip file, if you don't have Unity3D installed on your machine. Just double click the MAB.ai.exe and your all set
 This project was inspired by Unity Technologies project: https://github.com/Unity-Technologies/BanditDungeon
 
 
