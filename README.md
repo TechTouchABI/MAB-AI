@@ -6,11 +6,13 @@
 </p>
 
 
-MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours :)
+MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours as well. To integrate Moviduis NCS with your CPU on Ubuntu 16.04 please visit https://github.com/movidius/ncsdk
+The Intel® Movidius™ Neural Compute software developer kit (NCSDK) is provided for users of the Intel® Movidius™ Neural Compute Stick (Intel® Movidius™ NCS). It includes software tools, an API, and examples, so developers can create software that takes advantage of the accelerated neural network capability provided by the Intel Movidius NCS hardware.
+
 Check out the MAB.ai V2 performance on vimeo:https://vimeo.com/270219767
  
  
- We have also added an AR scene to enhance the experience
+We have also added an AR scene to enhance the experience
 
 Reinforcement learning is learning what to do - how to map situations to actions - so as to maximize a numerical reward signal.
 The learner is not told which actions to take, as in most forms of machine learning, but instead must discover which actions
