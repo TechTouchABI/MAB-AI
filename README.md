@@ -1,9 +1,16 @@
 ## MAB.ai
 # Multi-Armed Bandit AI
 
-<p align="center">
-  <img width="460" height="300" src="https://github.com/TechTouchABI/MAB-AI/blob/master/icon.png">
+<p align="left">
+  <img width="100" height="100" src="https://github.com/TechTouchABI/MAB-AI/blob/master/aescene2.png">
 </p>
+<p align="center">
+  <img width="100" height="100" src="https://github.com/TechTouchABI/MAB-AI/blob/master/mabmenue.png">
+</p>
+<p align="right">
+  <img width="100" height="https://github.com/TechTouchABI/MAB-AI/blob/master/main.png">
+</p>
+
 
 MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours :)
 Check out the MAB.ai V2 performance on vimeo:https://vimeo.com/270219767
