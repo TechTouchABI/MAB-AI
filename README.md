@@ -6,7 +6,6 @@
 </p>
 
 
-
 MAB.ai V2 has achieved 10x performance of MAB.ai V1 { https://github.com/TechTouchABI/MAB.ai } using state-of-the-art neural networks on a Intel Moviduis NCS USB stick, compared to our CPU and yours :)
 Check out the MAB.ai V2 performance on vimeo:https://vimeo.com/270219767
  
@@ -23,6 +22,10 @@ the immediate reward, but also the next situation and, through that, all subsequ
 Maximize the reward obtained by successively playing gamble machines (the ‘arms’ of the bandits)
 Invented in early 1950s by Robbins to model decision making under uncertainty when the environment is unknown
 The lotteries are unknown ahead of time
+
+<p align="center">
+  <img width="460" height="300" src="https://github.com/TechTouchABI/MAB-AI/blob/master/mabmenue.png">
+</p>
 
 # Assumptions
 
